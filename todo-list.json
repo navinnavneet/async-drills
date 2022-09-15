@@ -1,0 +1,36 @@
+{
+    "jim@microsoft.com": [
+        {
+            "completed": true,
+            "label": "Purchase Playstation 5",
+            "_id": 39042490234
+        },
+        {
+            "completed": false,
+            "label": "Get Amazing SpiderMan Game",
+            "_id": 39042490233
+        },
+        {
+            "completed": false,
+            "label": "Play the game",
+            "_id": 39042490232
+        }
+    ],
+    "firefly@slack.com": [
+        {
+            "completed": true,
+            "label": "Order Pizza",
+            "_id": 39042490256
+        },
+        {
+            "completed": true,
+            "label": "Put some toppings",
+            "_id": 39042490267
+        },
+        {
+            "completed": false,
+            "label": "Add some sausage",
+            "_id": 39042490298
+        }
+    ]
+}

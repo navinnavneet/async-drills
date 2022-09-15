@@ -1,0 +1,37 @@
+{
+    "jim@microsoft.com": {
+        "name": "Jim",
+        "company": "Microsoft",
+        "surname": "Ross",
+        "age": 32,
+        "designation": "Engineering Manager"
+    },
+    "walker@discord.com": {
+        "name": "Paul",
+        "company": "Discord",
+        "surname": "Walker",
+        "age": 33,
+        "designation": "Designer"
+    },
+    "firefly@slack.com": {
+        "name": "Hank",
+        "company": "Slack",
+        "surname": "Webb",
+        "age": 24,
+        "designation": "SDE 1"
+    },
+    "rubik@valve.com": {
+        "name": "Rubik",
+        "company": "Valve",
+        "surname": "Spasky",
+        "age": 25,
+        "designation": "SDE 2"
+    },
+    "paul@crud.com": {
+        "name": "Paul",
+        "company": "Celiessa",
+        "surname": "Hernandez",
+        "age": 25,
+        "designation": "SDE 2"
+    }
+}
